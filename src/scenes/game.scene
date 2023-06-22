@@ -1,0 +1,26 @@
+{
+    "id": "de1d1978-98a4-43ac-9dc4-8b36954ea38e",
+    "sceneType": "SCENE",
+    "settings": {
+        "javaScriptInitFieldsInConstructor": true,
+        "exportClass": true,
+        "autoImport": true,
+        "preloadPackFiles": [],
+        "createMethodName": "editorCreate",
+        "sceneKey": "game"
+    },
+    "displayList": [
+        {
+            "type": "ScriptNode",
+            "id": "645afb22-e235-4cb2-b7a2-ff34fdc57a38",
+            "label": "scriptnode_1"
+        }
+    ],
+    "plainObjects": [],
+    "meta": {
+        "app": "Phaser Editor 2D - Scene Editor",
+        "url": "https://phasereditor2d.com",
+        "contentType": "phasereditor2d.core.scene.SceneContentType",
+        "version": 4
+    }
+}
