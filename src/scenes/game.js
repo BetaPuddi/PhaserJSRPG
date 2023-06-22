@@ -4,6 +4,7 @@
 /* START OF COMPILED CODE */
 
 import Phaser from "phaser";
+import Items from "../game/Items";
 /* START-USER-IMPORTS */
 /* END-USER-IMPORTS */
 
@@ -20,8 +21,8 @@ export default class game extends Phaser.Scene {
 	/** @returns {void} */
 	editorCreate() {
 
-		// scriptnode_1
-		new ScriptNode(this);
+		// items
+		new Items(this);
 
 		this.events.emit("scene-awake");
 	}

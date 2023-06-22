@@ -1,19 +1,18 @@
 {
-    "id": "de1d1978-98a4-43ac-9dc4-8b36954ea38e",
-    "sceneType": "SCENE",
+    "id": "f6ed1741-e2e8-4b61-a7ab-e286df4a577d",
+    "sceneType": "PREFAB",
     "settings": {
-        "javaScriptInitFieldsInConstructor": true,
         "exportClass": true,
         "autoImport": true,
+        "preloadMethodName": "",
         "preloadPackFiles": [],
-        "createMethodName": "editorCreate",
-        "sceneKey": "game"
+        "createMethodName": ""
     },
     "displayList": [
         {
-            "prefabId": "f6ed1741-e2e8-4b61-a7ab-e286df4a577d",
-            "id": "7eade319-263c-481d-9dff-956e0b5c61ed",
-            "label": "items"
+            "type": "ScriptNode",
+            "id": "c0184b99-a8f1-4bf0-9669-fff8ebd57ed2",
+            "label": "scriptnode_1"
         }
     ],
     "plainObjects": [],
